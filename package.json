@@ -1,5 +1,5 @@
 {
-  "name": "react-native-device-info",
+  "name": "bp-react-native-device-info",
   "version": "10.7.0",
   "description": "Get device information using react-native",
   "react-native": "src/index.ts",
